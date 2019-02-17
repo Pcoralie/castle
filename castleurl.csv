@@ -1,0 +1,451 @@
+ hotel ; restaurant ; chef ; hote 
+
+                                            Abbaye de la Bussière
+                                         ; https://www.relaischateaux.com/fr/france/bussiere-cote-d-or-la-bussiere-sur-ouche ; https://www.relaischateaux.com/fr/chef/guillaume-royer ; https://www.relaischateaux.com/fr/maitre-maison/clive-tanith-cummings 
+
+                                            Anne de Bretagne
+                                         ; https://www.relaischateaux.com/fr/france/annedebretagne-loire-atlantique-la-plaine-sur-mer ; https://www.relaischateaux.com/fr/chef/mathieu-guibert ; https://www.relaischateaux.com/fr/maitre-maison/clive-tanith-cummings 
+
+                                            Assiette Champenoise
+                                         ; https://www.relaischateaux.com/fr/france/assiette-champenoise-champagne-ardenne-tinqueux ; https://www.relaischateaux.com/fr/chef/arnaud-lallement ; https://www.relaischateaux.com/fr/maitre-maison/melanie-lallement 
+
+                                            Au Crocodile
+                                         ; https://www.relaischateaux.com/fr/france/crocodile-bas-rhin ; https://www.relaischateaux.com/fr/chef/franck-pelux ; https://www.relaischateaux.com/fr/maitre-maison/cedric-moulot 
+
+                                            Au Cœur du Village Hôtel & Spa
+                                         ; https://www.relaischateaux.com/fr/france/coeurduvillage-rhone-alpes-la-clusaz ; https://www.relaischateaux.com/fr/chef/cedric-heurtebise-vincent-deforce ; https://www.relaischateaux.com/fr/maitre-maison/celine-lecamus-locatelli 
+
+                                            Auberge de l’Île Barbe
+                                         ; https://www.relaischateaux.com/fr/france/aubergedelile-rhone-lyon ; https://www.relaischateaux.com/fr/chef/jean-christophe-ansanay-alex ; https://www.relaischateaux.com/fr/maitre-maison/celine-lecamus-locatelli 
+
+                                            Auberge des Glazicks
+                                         ; https://www.relaischateaux.com/fr/france/auberge-des-glazicks-plomodiern ; https://www.relaischateaux.com/fr/chef/olivier-bellin ; https://www.relaischateaux.com/fr/maitre-maison/celine-lecamus-locatelli 
+
+                                            Auberge des Templiers
+                                         ; https://www.relaischateaux.com/fr/france/templiers-loiret-boismorand ; https://www.relaischateaux.com/fr/chef/martin-simonart ; https://www.relaischateaux.com/fr/maitre-maison/guillaume-depee 
+
+                                            Auberge du Jeu de Paume
+                                         ; https://www.relaischateaux.com/fr/france/jeudepaume-oise-chantilly ; https://www.relaischateaux.com/fr/chef/julien-lucas ; https://www.relaischateaux.com/fr/maitre-maison/pascal-groell 
+
+                                            Baumanière Hôtel & Spa
+                                         ; https://www.relaischateaux.com/fr/france/baumaniere-hotel-spa-les-baux-de-provence ; https://www.relaischateaux.com/fr/chef/glenn-viel ; https://www.relaischateaux.com/fr/maitre-maison/genevieve-jean-andre-charial 
+
+                                            Brittany & Spa
+                                         ; https://www.relaischateaux.com/fr/france/brittany-finistere-roscoff ; https://www.relaischateaux.com/fr/chef/loic-le-bail ; https://www.relaischateaux.com/fr/maitre-maison/jerome-marc 
+
+                                            Cap d’Antibes Beach Hotel
+                                         ; https://www.relaischateaux.com/fr/france/antibes-alpes-maritimes-cap-d-antibes ; https://www.relaischateaux.com/fr/chef/nicolas-rondelli ; https://www.relaischateaux.com/fr/maitre-maison/franck-farneti 
+
+                                            Castel Clara Thalasso & Spa
+                                         ; https://www.relaischateaux.com/fr/france/castelclara-morbihan-bangor ; https://www.relaischateaux.com/fr/chef/franck-moisan ; https://www.relaischateaux.com/fr/maitre-maison/christophe-hardouin 
+
+                                            Cazaudehore « La Forestière »
+                                         ; https://www.relaischateaux.com/fr/france/cazaudehore-yvelines-saint-germain-en-laye ; https://www.relaischateaux.com/fr/chef/gregory-balland ; https://www.relaischateaux.com/fr/maitre-maison/isabelle-philippe-cazaudehore 
+
+                                            Château Cordeillan-Bages
+                                         ; https://www.relaischateaux.com/fr/france/cordeillan-gironde-pauillac ; https://www.relaischateaux.com/fr/chef/julien-lefebvre ; https://www.relaischateaux.com/fr/maitre-maison/yann-potet 
+
+                                            Château Lafaurie-Peyraguey Hôtel & Restaurant LALIQUE
+                                         ; https://www.relaischateaux.com/fr/france/chateau-lafaurie-peyraguey-lalique-bommes ; https://www.relaischateaux.com/fr/chef/jerome-schilling ; https://www.relaischateaux.com/fr/maitre-maison/yann-potet 
+
+                                            Château de Bagnols
+                                         ; https://www.relaischateaux.com/fr/france/bagnols-rhone-alpes ; https://www.relaischateaux.com/fr/chef/jean-alexandre-ouaratta ; https://www.relaischateaux.com/fr/maitre-maison/medhi-rezki 
+
+                                            Château de Berne
+                                         ; https://www.relaischateaux.com/fr/france/berne-var-lorgues ; https://www.relaischateaux.com/fr/chef/benjamin-collombat ; https://www.relaischateaux.com/fr/maitre-maison/christine-monteil-david-gouy 
+
+                                            Château de Codignat
+                                         ; https://www.relaischateaux.com/fr/france/codignat-puy-de-dome-bort-l-etang ; https://www.relaischateaux.com/fr/chef/mathieu-barbet ; https://www.relaischateaux.com/fr/maitre-maison/julien-moura 
+
+                                            Château de Courcelles
+                                         ; https://www.relaischateaux.com/fr/france/courcelles-aisne-courcelles-sur-vesle ; https://www.relaischateaux.com/fr/chef/lucas-vannier ; https://www.relaischateaux.com/fr/maitre-maison/morgane-anthonioz 
+
+                                            Château de Curzay
+                                         ; https://www.relaischateaux.com/fr/france/curzay-vienne-curzay-sur-vonne ; https://www.relaischateaux.com/fr/chef/thierry-assailly ; https://www.relaischateaux.com/fr/maitre-maison/morgane-anthonioz 
+
+                                            Château de Drudas
+                                         ; https://www.relaischateaux.com/fr/france/chateau-de-drudas ; https://www.relaischateaux.com/fr/chef/axell-boisselier ; https://www.relaischateaux.com/fr/maitre-maison/floriane-barreau 
+
+                                            Château de Fonscolombe
+                                         ; https://www.relaischateaux.com/fr/france/fonscolombe-bouches-du-rhone ; https://www.relaischateaux.com/fr/chef/nadege-serret ; https://www.relaischateaux.com/fr/maitre-maison/cedric-cauvelier 
+
+                                            Château de Germigney
+                                         ; https://www.relaischateaux.com/fr/france/germigney-jura-port-lesney ; https://www.relaischateaux.com/fr/chef/pierre-basso-moro ; https://www.relaischateaux.com/fr/maitre-maison/vanessa-arnauld-baert 
+
+                                            Château de La Chèvre d’Or
+                                         ; https://www.relaischateaux.com/fr/france/chevredor-alpes-maritimes-eze-village ; https://www.relaischateaux.com/fr/chef/arnaud-faye ; https://www.relaischateaux.com/fr/maitre-maison/thierry-naidu 
+
+                                            Château de Locguénolé
+                                         ; https://www.relaischateaux.com/fr/france/locguenole-morbihan-kervignac ; https://www.relaischateaux.com/fr/chef/jeremie-louis ; https://www.relaischateaux.com/fr/maitre-maison/renaud-escudier 
+
+                                            Château de Mercuès
+                                         ; https://www.relaischateaux.com/fr/france/mercues-lot-mercues ; https://www.relaischateaux.com/fr/chef/julien-poisot ; https://www.relaischateaux.com/fr/maitre-maison/sabrina-fiere 
+
+                                            Château de Mirambeau
+                                         ; https://www.relaischateaux.com/fr/france/mirambeau-charente-maritime-mirambeau ; https://www.relaischateaux.com/fr/chef/julien-poisot ; https://www.relaischateaux.com/fr/maitre-maison/sabrina-fiere 
+
+                                            Château de Montreuil
+                                         ; https://www.relaischateaux.com/fr/france/montreuil-pas-de-calais-montreuil ; https://www.relaischateaux.com/fr/chef/jean-marie-le-guen ; https://www.relaischateaux.com/fr/maitre-maison/christian-lindsay-germain 
+
+                                            Château de Noirieux
+                                         ; https://www.relaischateaux.com/fr/france/noirieux-maine-et-loire-briollay ; https://www.relaischateaux.com/fr/chef/christophe-guillemot ; https://www.relaischateaux.com/fr/maitre-maison/christophe-guillemot 
+
+                                            Château de Noizay
+                                         ; https://www.relaischateaux.com/fr/france/noizay-indre-et-loire-noizay ; https://www.relaischateaux.com/fr/chef/frederic-collin ; https://www.relaischateaux.com/fr/maitre-maison/cecile-william 
+
+                                            Château de Riell
+                                         ; https://www.relaischateaux.com/fr/france/riell-pyrenees-orientales-prades ; https://www.relaischateaux.com/fr/chef/sebastien-nouveau ; https://www.relaischateaux.com/fr/maitre-maison/biche-barthelemy 
+
+                                            Château de Rochegude
+                                         ; https://www.relaischateaux.com/fr/france/rochegude-drome-rochegude ; https://www.relaischateaux.com/fr/chef/thierry-frebout ; https://www.relaischateaux.com/fr/maitre-maison/xavier-dochez 
+
+                                            Château de Valmer
+                                         ; https://www.relaischateaux.com/fr/france/chateau-de-valmer-la-croix-valmer ; https://www.relaischateaux.com/fr/chef/jimmy-coutel ; https://www.relaischateaux.com/fr/maitre-maison/lydia-roussel 
+
+                                            Château de la Treyne
+                                         ; https://www.relaischateaux.com/fr/france/treyne-lot-lacave ; https://www.relaischateaux.com/fr/chef/stephane-andrieux ; https://www.relaischateaux.com/fr/maitre-maison/philippe-stephanie-gombert 
+
+                                            Château des Avenières
+                                         ; https://www.relaischateaux.com/fr/france/avenieres-haute-savoie-cruseilles ; https://www.relaischateaux.com/fr/chef/anthony-laboub ; https://www.relaischateaux.com/fr/maitre-maison/laurence-nicolas-odin 
+
+                                            Château d’Adoménil
+                                         ; https://www.relaischateaux.com/fr/france/adomenil-meurthe-et-moselle-luneville ; https://www.relaischateaux.com/fr/chef/cyril-leclerc ; https://www.relaischateaux.com/fr/maitre-maison/sophie-cyril-leclerc 
+
+                                            Château d’Audrieu
+                                         ; https://www.relaischateaux.com/fr/france/audrieu-calvados-audrieu ; https://www.relaischateaux.com/fr/chef/olivier-barbarin ; https://www.relaischateaux.com/fr/maitre-maison/florence-pottier 
+
+                                            Clarance Hôtel
+                                         ; https://www.relaischateaux.com/fr/france/clarance-hotel-nord ; https://www.relaischateaux.com/fr/chef/thibaut-gamba ; https://www.relaischateaux.com/fr/maitre-maison/aurelie-vermesse 
+
+                                            Coquillade Village
+                                         ; https://www.relaischateaux.com/fr/france/coquillade-vaucluse-gargas ; https://www.relaischateaux.com/fr/chef/thierry-enderlin ; https://www.relaischateaux.com/fr/maitre-maison/carmen-werner-r-wunderli 
+
+                                            Domaine Les Crayères
+                                         ; https://www.relaischateaux.com/fr/france/crayeres-marne-reims ; https://www.relaischateaux.com/fr/chef/philippe-mille ; https://www.relaischateaux.com/fr/maitre-maison/herve-fort 
+
+                                            Domaine de Rochevilaine
+                                         ; https://www.relaischateaux.com/fr/france/rochevilaine-morbihan-billiers ; https://www.relaischateaux.com/fr/chef/maxime-nouail ; https://www.relaischateaux.com/fr/maitre-maison/cecile-bertrand-jaquet 
+
+                                            Domaine de la Bretesche Golf & Spa
+                                         ; https://www.relaischateaux.com/fr/france/bretesche-loire-atlantique-missillac ; https://www.relaischateaux.com/fr/chef/frederic-murati ; https://www.relaischateaux.com/fr/maitre-maison/pierre-sancho 
+
+                                            Domaine d’Auriac
+                                         ; https://www.relaischateaux.com/fr/france/auriac-aude-carcassonne ; https://www.relaischateaux.com/fr/chef/philippe-deschamps ; https://www.relaischateaux.com/fr/maitre-maison/marie-helene-rigaudis-calvet 
+
+                                            Flocons de Sel
+                                         ; https://www.relaischateaux.com/fr/france/flocons-haute-savoie-megeve ; https://www.relaischateaux.com/fr/chef/emmanuel-renaut ; https://www.relaischateaux.com/fr/maitre-maison/kristine-emmanuel-renaut 
+
+                                            Georges Blanc Parc & Spa
+                                         ; https://www.relaischateaux.com/fr/france/blanc-ain-vonnas ; https://www.relaischateaux.com/fr/chef/georges-blanc ; https://www.relaischateaux.com/fr/maitre-maison/fabrice-sommier 
+
+                                            Grand Hôtel de Cala Rossa & Spa
+                                         ; https://www.relaischateaux.com/fr/france/calarossa-corse-porto-vecchio ; https://www.relaischateaux.com/fr/chef/pascal-cayeux ; https://www.relaischateaux.com/fr/maitre-maison/patricia-biancarelli-helene-canarelli 
+
+                                            Grand Hôtel du Lion d’Or
+                                         ; https://www.relaischateaux.com/fr/france/liondor-loir-et-cher-romorantin-lanthenay ; https://www.relaischateaux.com/fr/chef/didier-clement ; https://www.relaischateaux.com/fr/maitre-maison/marie-christine-didier-clement 
+
+                                            Hameau Albert Ier
+                                         ; https://www.relaischateaux.com/fr/france/albert-haute-savoie-chamonix-mont-blanc ; https://www.relaischateaux.com/fr/chef/damien-leveau ; https://www.relaischateaux.com/fr/maitre-maison/pierre-carrier 
+
+                                            Hostellerie La Briqueterie
+                                         ; https://www.relaischateaux.com/fr/france/briqueterie-marne-vinay ; https://www.relaischateaux.com/fr/chef/thomas-debouzy ; https://www.relaischateaux.com/fr/maitre-maison/karine-anciaux-julien-agnellet 
+
+                                            Hostellerie La Cheneaudière & Spa
+                                         ; https://www.relaischateaux.com/fr/france/cheneaudiere-bas-rhin-colroy-la-roche ; https://www.relaischateaux.com/fr/chef/roger-bouhassoun ; https://www.relaischateaux.com/fr/maitre-maison/mireille-fran 
+
+                                            Hostellerie de Levernois
+                                         ; https://www.relaischateaux.com/fr/france/levernois-cote-d-or-levernois-beaune ; https://www.relaischateaux.com/fr/chef/philippe-auge ; https://www.relaischateaux.com/fr/maitre-maison/susanne-jean-louis-bottigliero 
+
+                                            Hostellerie de Plaisance
+                                         ; https://www.relaischateaux.com/fr/france/plaisance-gironde-saint-emilion ; https://www.relaischateaux.com/fr/chef/ronan-kervarrec ; https://www.relaischateaux.com/fr/maitre-maison/susanne-jean-louis-bottigliero 
+
+                                            Hotel & Restaurant Thierry Drapeau
+                                         ; https://www.relaischateaux.com/fr/france/thierrydrapeau-vendee-saint-sulpice-le-verdon ; https://www.relaischateaux.com/fr/chef/thierry-drapeau ; https://www.relaischateaux.com/fr/maitre-maison/thierry-drapeau 
+
+                                            Hotel Ile de la Lagune Thalasso & Spa
+                                         ; https://www.relaischateaux.com/fr/france/ile-de-la-lagune-saint-cyprien ; https://www.relaischateaux.com/fr/chef/christophe-schmitt ; https://www.relaischateaux.com/fr/maitre-maison/franck-laporte 
+
+                                            Hôtel & Spa du Castellet
+                                         ; https://www.relaischateaux.com/fr/france/castellet-var-le-castellet ; https://www.relaischateaux.com/fr/chef/christophe-bacquie ; https://www.relaischateaux.com/fr/maitre-maison/alexandra-bacquie 
+
+                                            Hôtel Crillon le Brave
+                                         ; https://www.relaischateaux.com/fr/france/crillonbrave-vaucluse-crillon-le-brave ; https://www.relaischateaux.com/fr/chef/julien-marseault ; https://www.relaischateaux.com/fr/maitre-maison/annabelle-gamelin 
+
+                                            Hôtel Daniel
+                                         ; https://www.relaischateaux.com/fr/france/danielparis-paris ; https://www.relaischateaux.com/fr/maitre-maison/cecile-croisard ; https://www.relaischateaux.com/fr/maitre-maison/annabelle-gamelin 
+
+                                            Hôtel Impérial Garoupe
+                                         ; https://www.relaischateaux.com/fr/france/garoupe-alpes-maritimes-cap-d-antibes ; https://www.relaischateaux.com/fr/chef/pierre-alain-garnier ; https://www.relaischateaux.com/fr/maitre-maison/gilbert-irondelle 
+
+                                            Hôtel Le Chabichou Restaurants & Spa
+                                         ; https://www.relaischateaux.com/fr/france/chabichou-savoie-courchevel-1850 ; https://www.relaischateaux.com/fr/chef/michel-rochedy-stephane-buron ; https://www.relaischateaux.com/fr/maitre-maison/famille-rochedy 
+
+                                            Hôtel Les Barmes de l'Ours
+                                         ; https://www.relaischateaux.com/fr/france/barmes-de-l-ours-savoie ; https://www.relaischateaux.com/fr/chef/antoine-gras ; https://www.relaischateaux.com/fr/maitre-maison/valerie-boulenger 
+
+                                            Hôtel Parc Victoria
+                                         ; https://www.relaischateaux.com/fr/france/parcvictoria-pyrenees-atlantiques-saint-jean-de-luz ; https://www.relaischateaux.com/fr/chef/guillaume-applaincourt ; https://www.relaischateaux.com/fr/maitre-maison/bernard-denegre 
+
+                                            Hôtel Restaurant Auberge du Père Bise – Jean Sulpice
+                                         ; https://www.relaischateaux.com/fr/france/bise-haute-savoie-talloires ; https://www.relaischateaux.com/fr/chef/jean-sulpice ; https://www.relaischateaux.com/fr/maitre-maison/magali-jean-sulpice 
+
+                                            Hôtel Restaurant Clos des Sens - Laurent PETIT
+                                         ; https://www.relaischateaux.com/fr/france/clos-des-sens-haute-savoie ; https://www.relaischateaux.com/fr/chef/laurent-petit ; https://www.relaischateaux.com/fr/maitre-maison/laurent-and-martine-petit 
+
+                                            Hôtel Restaurant En Marge
+                                         ; https://www.relaischateaux.com/fr/france/hotel-restaurant-en-marge-aureville ; https://www.relaischateaux.com/fr/chef/frank-renimel ; https://www.relaischateaux.com/fr/maitre-maison/isabelle-renimel 
+
+                                            Hôtel Splendide Royal Paris
+                                         ; https://www.relaischateaux.com/fr/france/hotel-splendide-royal-paris ; https://www.relaischateaux.com/fr/chef/vito-grippa ; https://www.relaischateaux.com/fr/maitre-maison/benoit-saudemont 
+
+                                            Hôtel de la Plage
+                                         ; https://www.relaischateaux.com/fr/france/laplage-finistere-sainte-anne-la-palud ; https://www.relaischateaux.com/fr/chef/yoann-no%C3%ABl ; https://www.relaischateaux.com/fr/maitre-maison/anne-et-jean-milliau-le-coz 
+
+                                            Hôtel du Bois Blanc
+                                         ; https://www.relaischateaux.com/fr/france/hotel-du-bois-blanc-ain-vonnas ; https://www.relaischateaux.com/fr/maitre-maison/georges-blanc-maitre-de-maison ; https://www.relaischateaux.com/fr/maitre-maison/anne-et-jean-milliau-le-coz 
+
+                                            Hôtel et Restaurant Régis et Jacques Marcon
+                                         ; https://www.relaischateaux.com/fr/france/cimes-haute-loire-saint-bonnet-le-froid ; https://www.relaischateaux.com/fr/chef/regis-jacques-marcon ; https://www.relaischateaux.com/fr/maitre-maison/michele-marcon-fran 
+
+                                            Hôtel-Spa La Bouitte – Restaurant René et Maxime Meilleur
+                                         ; https://www.relaischateaux.com/fr/france/la-bouitte-savoie ; https://www.relaischateaux.com/fr/chef/rene-et-maxime-meilleur ; https://www.relaischateaux.com/fr/maitre-maison/rene-et-maxime-meilleur-gm 
+
+                                            Jiva Hill Resort
+                                         ; https://www.relaischateaux.com/fr/france/jivahill-ain-crozet ; https://www.relaischateaux.com/fr/chef/vincent-betton ; https://www.relaischateaux.com/fr/maitre-maison/fabrice-mercier 
+
+                                            L'Auberge Basque
+                                         ; https://www.relaischateaux.com/fr/france/auberge-basque-saint-pee-sur-nivelle-pyrenees-atlantiques ; https://www.relaischateaux.com/fr/chef/cedric-bechade ; https://www.relaischateaux.com/fr/maitre-maison/cedric-marion-bechade 
+
+                                            La Bastide
+                                         ; https://www.relaischateaux.com/fr/france/labastide-gers-barbotan-les-thermes ; https://www.relaischateaux.com/fr/chef/jerome-artiguebere ; https://www.relaischateaux.com/fr/maitre-maison/eleonore-guerard-andreu-coma-roca 
+
+                                            La Bastide Saint-Antoine
+                                         ; https://www.relaischateaux.com/fr/france/saintantoine-alpes-maritimes-grasse ; https://www.relaischateaux.com/fr/chef/laurent-barberot ; https://www.relaischateaux.com/fr/maitre-maison/jacques-chibois 
+
+                                            La Bastide de Capelongue
+                                         ; https://www.relaischateaux.com/fr/france/capelongue-vaucluse-bonnieux-en-provence ; https://www.relaischateaux.com/fr/chef/edouard-loubet ; https://www.relaischateaux.com/fr/maitre-maison/famille-loubet 
+
+                                            La Bastide de Saint-Tropez
+                                         ; https://www.relaischateaux.com/fr/france/tropez-var-saint-tropez ; https://www.relaischateaux.com/fr/chef/philippe-colinet ; https://www.relaischateaux.com/fr/maitre-maison/famille-loubet 
+
+                                            La Bonne Étape
+                                         ; https://www.relaischateaux.com/fr/france/bonneetape-alpes-de-haute-provence-chateau-arnoux ; https://www.relaischateaux.com/fr/chef/jany-gleize ; https://www.relaischateaux.com/fr/maitre-maison/jany-gleize 
+
+                                            La Chapelle Saint-Martin
+                                         ; https://www.relaischateaux.com/fr/france/chapelle-haute-vienne-nieul ; https://www.relaischateaux.com/fr/chef/gilles-dudognon ; https://www.relaischateaux.com/fr/maitre-maison/aude-bourliataux-gilles-dudognon 
+
+                                            La Côte Saint Jacques & Spa
+                                         ; https://www.relaischateaux.com/fr/france/la-cote-saint-jacques-yonne-joigny ; https://www.relaischateaux.com/fr/chef/jean-michel-lorain ; https://www.relaischateaux.com/fr/maitre-maison/jean-michel-lorain 
+
+                                            La Ferme Saint-Siméon
+                                         ; https://www.relaischateaux.com/fr/france/simeon-calvados-honfleur ; https://www.relaischateaux.com/fr/chef/sebastien-faramond ; https://www.relaischateaux.com/fr/maitre-maison/david-vigier 
+
+                                            La Grande Maison de Bernard Magrez
+                                         ; https://www.relaischateaux.com/fr/france/grande-maison-bernard-magrez-gironde-bordeaux ; https://www.relaischateaux.com/fr/chef/jean-denis-le-bras-pierre-gagnaire ; https://www.relaischateaux.com/fr/maitre-maison/julien-gardin 
+
+                                            La Grenouillère
+                                         ; https://www.relaischateaux.com/fr/france/lagrenouillere-pas-de-calais-la-madelaine-sous-montreuil ; https://www.relaischateaux.com/fr/chef/alexandre-gauthier ; https://www.relaischateaux.com/fr/maitre-maison/alexandre-gauthier 
+
+                                            La Maison d'Uzès
+                                         ; https://www.relaischateaux.com/fr/france/maisonduzes-gard-uzes ; https://www.relaischateaux.com/fr/chef/christophe-ducros ; https://www.relaischateaux.com/fr/maitre-maison/alexandre-gauthier 
+
+                                            La Maison des Bois – Marc Veyrat
+                                         ; https://www.relaischateaux.com/fr/france/marcveyrat-haute-savoie-manigod ; https://www.relaischateaux.com/fr/chef/marc-veyrat ; https://www.relaischateaux.com/fr/maitre-maison/marc-veyrat 
+
+                                            La Pyramide Patrick Henriroux
+                                         ; https://www.relaischateaux.com/fr/france/pyramide-isere-vienne ; https://www.relaischateaux.com/fr/chef/patrick-henriroux ; https://www.relaischateaux.com/fr/maitre-maison/m-mme-henriroux 
+
+                                            La Réserve
+                                         ; https://www.relaischateaux.com/fr/france/reservealbi-tarn-albi ; https://www.relaischateaux.com/fr/chef/benoit-solomiac ; https://www.relaischateaux.com/fr/maitre-maison/helene-hijosa-rieux 
+
+                                            La Signoria & Spa
+                                         ; https://www.relaischateaux.com/fr/france/signoria-corse-calvi ; https://www.relaischateaux.com/fr/chef/alexandre-fabris ; https://www.relaischateaux.com/fr/maitre-maison/jean-baptiste-ceccaldi 
+
+                                            La Villa Archange
+                                         ; https://www.relaischateaux.com/fr/france/archange-alpes-maritimes ; https://www.relaischateaux.com/fr/chef/bruno-oger ; https://www.relaischateaux.com/fr/maitre-maison/jean-baptiste-ceccaldi 
+
+                                            La Villa Calvi
+                                         ; https://www.relaischateaux.com/fr/france/lavilla-haute-corse-calvi ; https://www.relaischateaux.com/fr/chef/jerome-voltzenlogel ; https://www.relaischateaux.com/fr/maitre-maison/jean-pierre-marion-pinelli 
+
+                                            Le Castel Marie-Louise
+                                         ; https://www.relaischateaux.com/fr/france/marielouise-loire-atlantique-la-baule ; https://www.relaischateaux.com/fr/chef/eric-mignard ; https://www.relaischateaux.com/fr/maitre-maison/bastien-herve 
+
+                                            Le Chambard
+                                         ; https://www.relaischateaux.com/fr/france/le-chambard-haut-rhin-kaysersberg ; https://www.relaischateaux.com/fr/chef/olivier-nasti ; https://www.relaischateaux.com/fr/maitre-maison/patricia-nasti 
+
+                                            Le Château de Beaulieu
+                                         ; https://www.relaischateaux.com/fr/france/chateaubeaulieu-pas-de-calais-busnes ; https://www.relaischateaux.com/fr/chef/marc-meurin ; https://www.relaischateaux.com/fr/maitre-maison/patricia-nasti 
+
+                                            Le Clos
+                                         ; https://www.relaischateaux.com/fr/france/leclos-normandie-verneuil-sur-avre ; https://www.relaischateaux.com/fr/maitre-maison/odile-eric-brial ; https://www.relaischateaux.com/fr/maitre-maison/patricia-nasti 
+
+                                            Le Club de Cavalière & Spa
+                                         ; https://www.relaischateaux.com/fr/france/cavaliere-var-le-lavandou-cavaliere ; https://www.relaischateaux.com/fr/chef/marc-dach ; https://www.relaischateaux.com/fr/maitre-maison/marielle-edouard-ruchti 
+
+                                            Le Couvent des Minimes Hôtel & Spa L'Occitane
+                                         ; https://www.relaischateaux.com/fr/france/minimes-alpes-de-haute-provence-mane ; https://www.relaischateaux.com/fr/chef/jerome-roy ; https://www.relaischateaux.com/fr/maitre-maison/valerie-fabien-piacentino 
+
+                                            Le Domaine de Verchant
+                                         ; https://www.relaischateaux.com/fr/france/verchant-herault-montpellier ; https://www.relaischateaux.com/fr/chef/damien-cousseau ; https://www.relaischateaux.com/fr/maitre-maison/xavier-debaisieux 
+
+                                            Le Grand Cœur & Spa
+                                         ; https://www.relaischateaux.com/fr/france/grandcoeur-savoie-meribel ; https://www.relaischateaux.com/fr/chef/marc-dach ; https://www.relaischateaux.com/fr/maitre-maison/marielle-edouard-ruchti 
+
+                                            Le Grand Véfour
+                                         ; https://www.relaischateaux.com/fr/france/vefour-paris ; https://www.relaischateaux.com/fr/chef/guy-martin ; https://www.relaischateaux.com/fr/maitre-maison/flavien-develet 
+
+                                            Le Mas de Pierre
+                                         ; https://www.relaischateaux.com/fr/france/maspierre-alpes-maritimes-saint-paul-de-vence ; https://www.relaischateaux.com/fr/chef/emmanuel-lehrer ; https://www.relaischateaux.com/fr/maitre-maison/audrey-jorge 
+
+                                            Le Mas des Herbes Blanches
+                                         ; https://www.relaischateaux.com/fr/france/masherbes-vaucluse-joucas ; https://www.relaischateaux.com/fr/chef/cyril-mendes ; https://www.relaischateaux.com/fr/maitre-maison/audrey-jorge 
+
+                                            Le Petit Nice-Passedat
+                                         ; https://www.relaischateaux.com/fr/france/passedat-bouches-du-rhone-marseille ; https://www.relaischateaux.com/fr/chef/gerald-passedat ; https://www.relaischateaux.com/fr/maitre-maison/gerald-passedat 
+
+                                            Le Phébus & Spa - Villa des Anges
+                                         ; https://www.relaischateaux.com/fr/france/phebus-vaucluse-gordes ; https://www.relaischateaux.com/fr/chef/xavier-mathieu ; https://www.relaischateaux.com/fr/maitre-maison/famille-mathieu 
+
+                                            Le Prieuré Baumanière
+                                         ; https://www.relaischateaux.com/fr/france/leprieure-gard-villeneuve-lez-avignon ; https://www.relaischateaux.com/fr/chef/marc-fontanne ; https://www.relaischateaux.com/fr/maitre-maison/alexandre-favier 
+
+                                            Le Pré Catelan
+                                         ; https://www.relaischateaux.com/fr/france/catelan-paris ; https://www.relaischateaux.com/fr/chef/frederic-anton ; https://www.relaischateaux.com/fr/maitre-maison/jean-jacques-chauveau 
+
+                                            Le Relais Bernard Loiseau – Spa Loiseau des Sens
+                                         ; https://www.relaischateaux.com/fr/france/loiseau-cote-d-or-saulieu ; https://www.relaischateaux.com/fr/chef/patrick-bertron ; https://www.relaischateaux.com/fr/maitre-maison/dominique-loiseau 
+
+                                            Le Saint-James Bouliac
+                                         ; https://www.relaischateaux.com/fr/france/stjames-gironde-bouliac ; https://www.relaischateaux.com/fr/chef/nicolas-magie ; https://www.relaischateaux.com/fr/maitre-maison/marie-borgel 
+
+                                            Le Saint-Paul
+                                         ; https://www.relaischateaux.com/fr/france/stpaul-alpes-maritimes-saint-paul-de-vence ; https://www.relaischateaux.com/fr/chef/romain-massart ; https://www.relaischateaux.com/fr/maitre-maison/marie-borgel 
+
+                                            Le Suquet, Sébastien Bras
+                                         ; https://www.relaischateaux.com/fr/france/bras-aveyron-laguiole ; https://www.relaischateaux.com/fr/chef/sebastien-bras ; https://www.relaischateaux.com/fr/maitre-maison/famille-bras 
+
+                                            Le Taillevent
+                                         ; https://www.relaischateaux.com/fr/france/taillevent-paris ; https://www.relaischateaux.com/fr/chef/david-bizet ; https://www.relaischateaux.com/fr/maitre-maison/famille-bras 
+
+                                            Le Vieux Logis
+                                         ; https://www.relaischateaux.com/fr/france/vieuxlogis-dordogne-tremolat ; https://www.relaischateaux.com/fr/chef/vincent-arnould ; https://www.relaischateaux.com/fr/maitre-maison/bernard-giraudel 
+
+                                            Les Bas Rupts
+                                         ; https://www.relaischateaux.com/fr/france/basrupts-vosges-gerardmer ; https://www.relaischateaux.com/fr/chef/michel-philippe ; https://www.relaischateaux.com/fr/maitre-maison/sylvie-philippe-witdouck 
+
+                                            Les Bergeries de Palombaggia
+                                         ; https://www.relaischateaux.com/fr/france/palombaggia-corse-du-sud-porto-vecchio ; https://www.relaischateaux.com/fr/chef/jean-jacques-gauthier ; https://www.relaischateaux.com/fr/maitre-maison/herve-malletroit 
+
+                                            Les Hautes Roches
+                                         ; https://www.relaischateaux.com/fr/france/hautesroches-indre-et-loire-rochecorbon ; https://www.relaischateaux.com/fr/chef/didier-edon ; https://www.relaischateaux.com/fr/maitre-maison/didier-edon 
+
+                                            Les Hauts de Loire
+                                         ; https://www.relaischateaux.com/fr/france/hauts-loire-loir-et-cher-onzain ; https://www.relaischateaux.com/fr/chef/remy-giraud ; https://www.relaischateaux.com/fr/maitre-maison/eric-hertz 
+
+                                            Les Maisons de Bricourt
+                                         ; https://www.relaischateaux.com/fr/france/bricourt-ille-et-vilaine-saint-meloir-des-ondes ; https://www.relaischateaux.com/fr/chef/olivier-hugo-roellinger ; https://www.relaischateaux.com/fr/maitre-maison/olivier-roellinger 
+
+                                            Les Prés d’Eugénie - Maison Guérard
+                                         ; https://www.relaischateaux.com/fr/france/guerard-landes-eugenie-les-bains ; https://www.relaischateaux.com/fr/chef/michel-guerard ; https://www.relaischateaux.com/fr/maitre-maison/michel-adeline-et-eleonore-guerard 
+
+                                            Lucas Carton
+                                         ; https://www.relaischateaux.com/fr/france/lucascarton-ile-de-france-paris ; https://www.relaischateaux.com/fr/chef/julien-dumas ; https://www.relaischateaux.com/fr/maitre-maison/lo 
+
+                                            L’Arnsbourg Restaurant et Hôtel
+                                         ; https://www.relaischateaux.com/fr/france/arnsbourg-moselle-baerenthal ; https://www.relaischateaux.com/fr/chef/fabien-mengus ; https://www.relaischateaux.com/fr/maitre-maison/famille-mengus 
+
+                                            L’Hôtel de Toiras & Villa Clarisse
+                                         ; https://www.relaischateaux.com/fr/france/toiras-charente-maritime-saint-martin-de-re ; https://www.relaischateaux.com/fr/chef/antonio-sanna ; https://www.relaischateaux.com/fr/maitre-maison/olivia-le-calvez-gm 
+
+                                            L’Oasis
+                                         ; https://www.relaischateaux.com/fr/france/oasis-alpes-maritimes-la-napoule ; https://www.relaischateaux.com/fr/chef/alain-montigny ; https://www.relaischateaux.com/fr/maitre-maison/stephane-raimbault 
+
+                                            Maison Decoret
+                                         ; https://www.relaischateaux.com/fr/france/decoret-allier-vichy ; https://www.relaischateaux.com/fr/chef/jacques-decoret ; https://www.relaischateaux.com/fr/maitre-maison/martine-jacques-decoret 
+
+                                            Maison Doucet
+                                         ; https://www.relaischateaux.com/fr/france/hotel-laposte-doucet-saone-et-loire ; https://www.relaischateaux.com/fr/chef/frederic-doucet ; https://www.relaischateaux.com/fr/maitre-maison/martine-jacques-decoret 
+
+                                            Maison Lameloise
+                                         ; https://www.relaischateaux.com/fr/france/lameloise-saone-et-loire-chagny ; https://www.relaischateaux.com/fr/chef/eric-pras ; https://www.relaischateaux.com/fr/maitre-maison/frederic-lamy 
+
+                                            Maison Pic
+                                         ; https://www.relaischateaux.com/fr/france/pic-drome-valence ; https://www.relaischateaux.com/fr/chef/anne-sophie-pic ; https://www.relaischateaux.com/fr/maitre-maison/arnaud-morandi 
+
+                                            Maison Rostang
+                                         ; https://www.relaischateaux.com/fr/france/rostang-paris ; https://www.relaischateaux.com/fr/chef/michel-rostang ; https://www.relaischateaux.com/fr/maitre-maison/sophie-rostang 
+
+                                            Manoir de Lan-Kerellec
+                                         ; https://www.relaischateaux.com/fr/france/lankerellec-cotes-d-armor-trebeurden ; https://www.relaischateaux.com/fr/chef/anthony-avoine ; https://www.relaischateaux.com/fr/maitre-maison/pauline-daube 
+
+                                            Marquis Faubourg Saint-Honoré
+                                         ; https://www.relaischateaux.com/fr/france/marquis-faubourg-saint-honore-ile-de-france-paris ; https://www.relaischateaux.com/fr/chef/anthony-avoine ; https://www.relaischateaux.com/fr/maitre-maison/pauline-daube 
+
+                                            Michel Trama
+                                         ; https://www.relaischateaux.com/fr/france/aubergade-lot-et-garonne-puymirol ; https://www.relaischateaux.com/fr/chef/michel-trama ; https://www.relaischateaux.com/fr/maitre-maison/michel-et-maryse-trama 
+
+                                            Monte-Carlo Beach
+                                         ; https://www.relaischateaux.com/fr/france/montecarlo-alpes-maritimes-roquebrune-cap-martin ; https://www.relaischateaux.com/fr/chef/paolo-sari ; https://www.relaischateaux.com/fr/maitre-maison/daniele-garcelon 
+
+                                            Moulin de l’Abbaye
+                                         ; https://www.relaischateaux.com/fr/france/moulin-dordogne-brantome-en-perigord ; https://www.relaischateaux.com/fr/chef/jean-michel-bardet ; https://www.relaischateaux.com/fr/maitre-maison/valerie-gautherot 
+
+                                            Pan Deï Palais
+                                         ; https://www.relaischateaux.com/fr/france/pandei-var-saint-tropez ; https://www.relaischateaux.com/fr/chef/quentin-durand ; https://www.relaischateaux.com/fr/maitre-maison/karin-perrault 
+
+                                            Passage 53
+                                         ; https://www.relaischateaux.com/fr/france/passage53-paris ; https://www.relaischateaux.com/fr/chef/shinichi-sato ; https://www.relaischateaux.com/fr/maitre-maison/guillaume-guedj 
+
+                                            Pierre Gagnaire
+                                         ; https://www.relaischateaux.com/fr/france/gagnaire-paris ; https://www.relaischateaux.com/fr/chef/pierre-gagnaire ; https://www.relaischateaux.com/fr/maitre-maison/pierre-gagnaire 
+
+                                            Relais de la Poste
+                                         ; https://www.relaischateaux.com/fr/france/poste-landes-magescq ; https://www.relaischateaux.com/fr/chef/jean-coussau ; https://www.relaischateaux.com/fr/maitre-maison/jacques-coussau 
+
+                                            Restaurant Alexandre
+                                         ; https://www.relaischateaux.com/fr/france/alexandre-gard-garons ; https://www.relaischateaux.com/fr/chef/michel-kayser ; https://www.relaischateaux.com/fr/maitre-maison/michel-kayser 
+
+                                            Restaurant Christopher Coutanceau
+                                         ; https://www.relaischateaux.com/fr/france/coutanceau-charente-maritime-la-rochelle ; https://www.relaischateaux.com/fr/chef/christopher-coutanceau ; https://www.relaischateaux.com/fr/maitre-maison/nicolas-brossard 
+
+                                            Restaurant Gill
+                                         ; https://www.relaischateaux.com/fr/france/gill-seine-maritime-rouen ; https://www.relaischateaux.com/fr/chef/gilles-tournadre ; https://www.relaischateaux.com/fr/maitre-maison/sylvie-tournadre 
+
+                                            Restaurant Greuze
+                                         ; https://www.relaischateaux.com/fr/france/restaurant-greuze-tournus ; https://www.relaischateaux.com/fr/chef/gilles-tournadre ; https://www.relaischateaux.com/fr/maitre-maison/sylvie-tournadre 
+
+                                            Restaurant Guy Lassausaie
+                                         ; https://www.relaischateaux.com/fr/france/lassausaie-rhone-alpes-chasselay ; https://www.relaischateaux.com/fr/chef/guy-lassausaie ; https://www.relaischateaux.com/fr/maitre-maison/marie-annick-lassausaie 
+
+                                            Restaurant Mirazur
+                                         ; https://www.relaischateaux.com/fr/france/mirazur-alpes-maritimes-menton ; https://www.relaischateaux.com/fr/chef/mauro-colagreco ; https://www.relaischateaux.com/fr/maitre-maison/mauro-julia-colagreco 
+
+                                            Restaurant Pierre Orsi
+                                         ; https://www.relaischateaux.com/fr/france/orsi-rhone-lyon ; https://www.relaischateaux.com/fr/chef/pierre-orsi ; https://www.relaischateaux.com/fr/maitre-maison/genevieve-orsi 
+
+                                            Restaurant Serge Vieira
+                                         ; https://www.relaischateaux.com/fr/france/vieira-cantal ; https://www.relaischateaux.com/fr/chef/serge-vieira ; https://www.relaischateaux.com/fr/maitre-maison/genevieve-orsi 
+
+                                            Royal Champagne Hotel & Spa
+                                         ; https://www.relaischateaux.com/fr/france/royalchampagne-marne-champillon ; https://www.relaischateaux.com/fr/chef/jean-denis-rieubland ; https://www.relaischateaux.com/fr/maitre-maison/vincent-parinaud 
+
+                                            Saint James Paris
+                                         ; https://www.relaischateaux.com/fr/france/saintjames-paris-ile-de-france-paris ; https://www.relaischateaux.com/fr/chef/adrien-brunet ; https://www.relaischateaux.com/fr/maitre-maison/laure-pertusier 
+
+                                            Tiara Yaktsa
+                                         ; https://www.relaischateaux.com/fr/france/yaktsa-alpes-maritimes-theoule-sur-mer ; https://www.relaischateaux.com/fr/chef/guillaume-anor ; https://www.relaischateaux.com/fr/maitre-maison/christian-baumgarten 
+
+                                            Troisgros
+                                         ; https://www.relaischateaux.com/fr/france/troisgros-loire-ouches ; https://www.relaischateaux.com/fr/chef/michel-cesar-troisgros ; https://www.relaischateaux.com/fr/maitre-maison/marie-pierre-michel-troisgros 
+
+                                            Villa Florentine
+                                         ; https://www.relaischateaux.com/fr/france/florentine-rhone-lyon ; https://www.relaischateaux.com/fr/chef/david-delsart ; https://www.relaischateaux.com/fr/maitre-maison/emmanuel-lallemand 
+
+                                            Villa Gallici
+                                         ; https://www.relaischateaux.com/fr/france/gallici-bouches-du-rhone-aix-en-provence ; https://www.relaischateaux.com/fr/chef/christophe-gavot ; https://www.relaischateaux.com/fr/maitre-maison/laurent-mounet 
+
+                                            Villa René Lalique
+                                         ; https://www.relaischateaux.com/fr/france/lalique-bas-rhin ; https://www.relaischateaux.com/fr/chef/jean-georges-klein ; https://www.relaischateaux.com/fr/maitre-maison/nicole-jean-georges-klein 
+
+                                            Yoann Conte – Bord du Lac Hôtel Restaurant
+                                         ; https://www.relaischateaux.com/fr/france/yoannconte-haute-savoie-veyrier-du-lac ; https://www.relaischateaux.com/fr/chef/yoann-conte ; https://www.relaischateaux.com/fr/maitre-maison/yoann-conte 
