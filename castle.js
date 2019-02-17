@@ -55,7 +55,7 @@ request(url, function(error, reponse , body){
             if(k==0){
               //name of the restaurant :
                 //console.log($(this).filter("a").text());
-                hotel = $(this).filter("a").text();
+                hotel = $(this).filter("a").text().trim();
 
                 //url of the restaurant :
                 //console.log($(this).attr("href").trim());
@@ -72,11 +72,11 @@ request(url, function(error, reponse , body){
             }
 
           })
-          writeStream.write(`${hotel} ; ${restaurant} ; ${chef} ; ${hote} \n`);
+          writeStream.write(`${hotel} ; ${restaurant} ; ${chef} ; ${hote};  \n`);
 
 
         })
-              console.log("scraping done"); 
+              console.log("scraping done");
       }
 
     })
